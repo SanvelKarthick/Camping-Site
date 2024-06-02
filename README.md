@@ -1,5 +1,5 @@
 # Camping Site
- Yelp Camp - CampGrounds
+
 # YelpCamp
 
 ![Image 1](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image1.png)  
